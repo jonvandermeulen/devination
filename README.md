@@ -27,10 +27,14 @@ Look closely at the most embarrassing details and amplify them
 Are you solving the problem you have or the problem you'd like to have?
 ```
 
+[Try it here](https://www.online-python.com/7k4r2vRtNm)
+
 ## How to use it
 In the project directory, run the command:
 
-```$ python app.py```
+```
+$ python app.py
+```
 
 Point your browser to [http://localhost:5000](http://localhost:5000) for a poorly-formated HTML rendering of the results.
 
