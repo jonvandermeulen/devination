@@ -10,7 +10,7 @@ def obl_strategy():
     with open('sources/oblique-strategies.txt', 'r') as ost:
         strats = ost.readlines()
         length = len(strats)
-    idx = randint(0, length)
+    idx = randint(0, length-1)
     strat = strats[idx].strip()
     return strat
 
@@ -19,7 +19,7 @@ def acute_strategy():
     with open('sources/acute-strategies.txt', 'r') as ost:
         strats = ost.readlines()
         length = len(strats)
-    idx = randint(0, length)
+    idx = randint(0, length-1)
     strat = strats[idx].strip()
     return strat
 
@@ -27,7 +27,7 @@ def i_ching():
     with open('sources/i-ching.txt', 'r') as ost:
         strats = ost.readlines()
         length = len(strats)
-    idx = randint(0, length)
+    idx = randint(0, length-1)
     strat = strats[idx].strip()
     return strat
 
