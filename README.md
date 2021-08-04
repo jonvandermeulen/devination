@@ -3,8 +3,8 @@ A dev creativity/advice generator based on the I Ching, Oblique Strategies and A
 ## I Ching
 An ancient Chinese divination text. The meanings of the _I Ching_ symbols are many and varied.
 
-It is, of course, complete rubish by any scientific standard - and the method of using a random number generator as opposed to the casting of lots in the physical realm makes a complete mockery of the process. As intended.
-
+The method of using a random number generator as opposed to the casting of lots in the physical realm makes a complete mockery of the process. No offense intended.
+s
 ## Oblique Strategies
 _Oblique Strategies_ (subtitled _Over One Hundred Worthwhile Dilemmas_) is a card-based method for promoting creativity jointly created by musician/artist Brian Eno and multimedia artist Peter Schmidt. (Source: [Wikipedia](https://en.wikipedia.org/wiki/Oblique_Strategies))
 
